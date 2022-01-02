@@ -2,13 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=j0x494949.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://j0x494949.github.io/)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## More About Me
 
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 Self Learner
+- 👯 Full Stack Developer
+- 🥅 AI Systems Builder
+- ⚡ Blue Hat Hacker
 
 ### Connect with me:
 
@@ -17,6 +16,7 @@
 [<img align="left" alt="j0x494949 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
+---
 
 ### Languages and Tools:
 
@@ -43,12 +43,6 @@
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://j0x494949.github.io/
 [twitter]: https://twitter.com/j0x494949
