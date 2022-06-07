@@ -1,6 +1,6 @@
 ### Hi there, I'm J - aka [J0x494949][website] 👋 
 
-[![Website](https://img.shields.io/website?label=j0x494949.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://j0x494949.github.io/)
+[![Website](https://img.shields.io/website?label=j0x49.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://j0x49.github.io/)
 
 ## More About Me
 
