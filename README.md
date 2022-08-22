@@ -28,19 +28,13 @@
 [<img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />][kotlin]
 .... +12 more
 
-<br />
-<br />
-<br />
 
 ### Lets Connect:
 
 [<img align="left" alt="https://j0x49.xyz" width="22px" src="https://img.icons8.com/fluency/48/000000/globe.png" />][website]
 [<img align="left" alt="j0x49 | Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
 [<img align="left" alt="j0x49 | LinkedIn" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
-
-<br />
-
----
+<br>
 
 
 
