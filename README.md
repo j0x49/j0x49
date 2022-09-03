@@ -26,7 +26,7 @@
 [<img align="left" alt="Termux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][termux]
 [<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" />][java]
 [<img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />][kotlin]
-.... +12 more
+ +12 more
 
 
 ### Lets Connect:
