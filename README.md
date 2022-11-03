@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm J0x49</h1>
-<h3 align="center">I am a Full Stack Dev, Pentester, Blue Teamer.</h3>
+<h3 align="center">I am a Full Stack Dev, Blue-Red Teamer, AI Model Engeneer ... and more.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j0x49" alt="j0x49" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/j0x49" target="blank"><img src="https://img.shields.io/twitter/follow/j0x49?logo=twitter&color=%3CCOLOR%3E&style=for-the-badge" alt="j0x49" /></a> </p>
 
-<p align="left"> <a href="https://instagram.com/j0x49" target="blank"><img src="https://img.shields.io/static/v1?label=instagram&message=37K&color=%3CCOLOR%3E&style=for-the-badge&logo=instagram" alt="j0x49" /></a> </p>
+<p align="left"> <a href="https://instagram.com/j0x49" target="blank"><img src="https://img.shields.io/static/v1?label=FOLLOW @J0x49&message=37K&color=%3CCOLOR%3E&style=for-the-badge&logo=instagram" alt="j0x49" /></a> </p>
 
-<p align="left"> <a href="https://instagram.com/j0x49" target="blank"><img src="https://img.shields.io/static/v1?label=github&message=1.2M&color=%3CCOLOR%3E&style=for-the-badge&logo=github" alt="j0x49" /></a> </p>
+<p align="left"> <a href="https://instagram.com/j0x49" target="blank"><img src="https://img.shields.io/static/v1?label=CONTRIBUTES&message=1.2M&color=%3CCOLOR%3E&style=for-the-badge&logo=github" alt="j0x49" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0x49&label=Profile%20views&color=0e75b6&style=flat" alt="j0x49" /> </p>
 
