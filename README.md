@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j0x49" alt="j0x49" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/j0x49" target="blank"><img src="https://img.shields.io/twitter/follow/j0x49?logo=twitter&color=%3CCOLOR%3E&style=for-the-badge" alt="j0x49" /></a> </p>
+<p align="left"> <a href="https://t.me/j0x49ch" target="blank"><img src="https://img.shields.io/twitter/follow/j0x49?logo=twitter&color=%3CCOLOR%3E&style=for-the-badge" alt="j0x49" /></a> </p>
 
 <p align="left"> <a href="https://instagram.com/j0x49" target="blank"><img src="https://img.shields.io/static/v1?label=FOLLOW @J0x49&message=37K&color=%3CCOLOR%3E&style=for-the-badge&logo=instagram" alt="j0x49" /></a> </p>
 
@@ -11,17 +11,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0x49&label=Profile%20views&color=0e75b6&style=flat" alt="j0x49" /> </p>
 
-- 1️⃣ 1st Github account in Yemen and Middle East according to [commits.top](https://commits.top/yemen.html)
+- 1️⃣ 1st Github account in Yemen and Middle East according to [committers.top](https://committers.top/yemen)
 
 - 🌱 I’m currently learning **Django, Arduino and ML.**
-
-- 👨‍💻 All of my projects are available at [j0x49.xyz](https://j0x49.xyz)
 
 - 💬 Ask me about **Android, Microprocessors, Python, ...**
 
 - 📫 How to reach me **j0x494949@gmail.com**
-
-- 📄 Know about my experiences [My CV](https://j0x49.xyz/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
