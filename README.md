@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j0x49" alt="j0x49" /></a> </p>
 
-<p align="left"> <a href="https://t.me/j0x49ch" target="blank"><img src="https://img.shields.io/twitter/follow/j0x49?logo=twitter&color=%3CCOLOR%3E&style=for-the-badge" alt="j0x49" /></a> </p>
+<p align="left"> <a href="https://t.me/j0x49ch" target="blank"><img src="https://img.shields.io/static/v1?label=FOLLOW @J0x49&message=1.2M&color=%3CCOLOR%3E&style=for-the-badge&logo=telegram" alt="j0x49" /></a> </p>
 
-<p align="left"> <a href="https://instagram.com/j0x49" target="blank"><img src="https://img.shields.io/static/v1?label=FOLLOW @J0x49&message=37K&color=%3CCOLOR%3E&style=for-the-badge&logo=instagram" alt="j0x49" /></a> </p>
+<p align="left"> <a href="https://instagram.com/j0x49" target="blank"><img src="https://img.shields.io/static/v1?label=FOLLOW @J0x49&message=100K&color=%3CCOLOR%3E&style=for-the-badge&logo=instagram" alt="j0x49" /></a> </p>
 
 <p align="left"> <a href="https://instagram.com/j0x49" target="blank"><img src="https://img.shields.io/static/v1?label=CONTRIBUTES&message=1.2M&color=%3CCOLOR%3E&style=for-the-badge&logo=github" alt="j0x49" /></a> </p>
 
